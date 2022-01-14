@@ -1,4 +1,4 @@
-# Battery-Control-BY-MOHAMMAD-ABUSAA
+# Battery-Control-By-Mohammad-Motasem-Abusaa
 A script dedicated to controlling the power of the device, programmed to protect the laptop battery from damage
 ![9](https://user-images.githubusercontent.com/75262781/149557188-0e10c492-d755-4fc3-b1e6-eca4fac162ff.png)
 ![image](https://user-images.githubusercontent.com/75262781/149557764-d51ff467-f0a9-4b13-8f11-88542e894907.png)
