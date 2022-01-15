@@ -15,6 +15,6 @@ while (1)
     bCharging = oResult.Charging
   next
   iPercent = ((iRemaining / iFull) * 100) mod 100
-  if bCharging and (iPercent < 15) Then msgbox "Connect your device to a charger"
+  if not bCharging and (iPercent < 15) Then msgbox "Connect your device to a charger"
   wscript.sleep 30000 ' 5 minutes
 wend
